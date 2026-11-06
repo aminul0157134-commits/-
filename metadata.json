@@ -1,0 +1,6 @@
+{
+  "name": "ধনকুন্ডী উত্তর পাড়া সেবা ও রক্তদান পরিষদ",
+  "description": "ধনকুন্ডী উত্তর পাড়া, সীমাবাড়ী, শেরপুর, বগুড়ার ডিজিটাল সেবা পোর্টাল, রক্তদান নেটওয়ার্ক, প্রবাসী অনুদান ও জরুরি তথ্য বাতায়ন।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
