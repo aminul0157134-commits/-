@@ -191,7 +191,7 @@ export const EmergencyNumbersModal: React.FC<EmergencyNumbersProps> = ({
             <div>
               <h3 className="font-bold text-lg sm:text-xl">জরুরি ফোন নম্বর বাতায়ন</h3>
               <p className="text-xs text-red-100">
-                ধনকুন্ডী উত্তর পাড়া ও শেরপুর উপজেলা বগুড়া
+                ধনকুন্ডী উত্তর পাড়া ও শেরপুর বগুড়া
               </p>
             </div>
           </div>
