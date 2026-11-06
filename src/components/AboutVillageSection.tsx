@@ -65,7 +65,7 @@ export const AboutVillageSection: React.FC<AboutVillageSectionProps> = ({
           </h2>
 
           <p className="mt-3 text-xs sm:text-base text-emerald-100 max-w-2xl leading-relaxed">
-            বগুড়া জেলার শেরপুর উপজেলার ৩নং সীমাবাড়ী ইউনিয়ন পরিষদের অন্তর্গত একটি ঐতিহ্যবাহী, শান্তিপ্রিয় ও সুসংগঠিত গ্রাম। সম্প্রীতি, পারস্পরিক ভালোবাসা ও সমাজসেবায় এ গ্রাম এক উজ্জ্বল দৃষ্টান্ত।
+            বগুড়া জেলার শেরপুর উপজেলার ৯নং সীমাবাড়ী ইউনিয়ন পরিষদের অন্তর্গত একটি ঐতিহ্যবাহী, শান্তিপ্রিয় ও সুসংগঠিত গ্রাম। সম্প্রীতি, পারস্পরিক ভালোবাসা ও সমাজসেবায় এ গ্রাম এক উজ্জ্বল দৃষ্টান্ত।
           </p>
 
           <div className="mt-6 flex flex-wrap items-center gap-3">
@@ -102,10 +102,10 @@ export const AboutVillageSection: React.FC<AboutVillageSectionProps> = ({
         <div className="p-4 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 shadow-xs">
           <span className="text-[11px] text-slate-400">ইউনিয়ন পরিষদ</span>
           <div className="font-black text-sm sm:text-base text-slate-900 dark:text-white mt-0.5">
-            ৩নং সীমাবাড়ী ইউনিয়ন
+            ৯নং সীমাবাড়ী ইউনিয়ন
           </div>
           <div className="text-[10px] text-slate-400 mt-1">
-            ১নং ওয়ার্ড
+            ২নং ওয়ার্ড
           </div>
         </div>
 
@@ -237,15 +237,15 @@ export const AboutVillageSection: React.FC<AboutVillageSectionProps> = ({
                 <GraduationCap className="w-4 h-4 text-blue-600 shrink-0 mt-0.5" />
                 <div>
                   <strong className="text-slate-900 dark:text-white">ধনকুন্ডী সরকারি প্রাথমিক বিদ্যালয়</strong>
-                  <p className="text-[11px] text-slate-500">শিশুদের প্রাথমিক শিক্ষা ও ক্রীড়াঙ্গন</p>
+                  <p className="text-[11px] text-slate-500">শাহেনাজ সিরাজ হাই স্কুল ও কারিগরি শিক্ষাপ্রতিষ্ঠান </p>
                 </div>
               </div>
 
               <div className="flex items-start gap-2.5">
                 <MapPin className="w-4 h-4 text-amber-600 shrink-0 mt-0.5" />
                 <div>
-                  <strong className="text-slate-900 dark:text-white">সীমাবাড়ী বাজার সংলগ্ন সংযোগ সড়ক</strong>
-                  <p className="text-[11px] text-slate-500">ব্যবসা-বাণিজ্য ও প্রধান যোগাযোগ রুট</p>
+                  <strong className="text-slate-900 dark:text-white">ধনকুন্ডী আয়শা মওলা বক্স দাখিল মাদ্রাসা </strong>
+                  <p className="text-[11px] text-slate-500"> সিমাবাড়ী ব্যবসা-বাণিজ্য ও প্রধান যোগাযোগ রুট</p>
                 </div>
               </div>
 
