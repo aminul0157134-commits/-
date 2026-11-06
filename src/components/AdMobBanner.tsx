@@ -17,8 +17,8 @@ export const AdMobBanner: React.FC<AdMobBannerProps> = ({ onRewardClaimed, onOpe
 
   const sampleAds = [
     {
-      title: 'শেরপুর স্কয়ার ডায়াগনস্টিক অ্যান্ড কনসালটেশন সেন্টার',
-      subtitle: 'রক্তের সব ধরনের পরীক্ষা ও ডিজিটাল এক্স-রেতে ২০% বিশেষ ছাড়',
+      title: 'ধনকুন্ডী উত্তর পাড়া মো: নয়ন ইসলাম নিজ বাসায় ঔষধের দোকান ও চিকিৎসা দিয়ে থাকেন।',
+      subtitle: '"আমি মো: আমিনুল ইসলাম  আমি এই সাইটটি তৈরি করেছি কোন ভুল হলে আমাকে জানাবেন আমি পরিবর্তন করে দিবো ধন্যবাদ 💐',
       sponsor: 'শেরপুর পৌরসভা, বগুড়া',
       callToAction: 'সিরিয়াল বুক করুন',
       bgGradient: 'from-blue-600 via-indigo-600 to-emerald-600',
