@@ -161,7 +161,7 @@ export const NoticeBoard: React.FC<NoticeBoardProps> = ({ notices, onAddNotice }
                   required
                   value={title}
                   onChange={(e) => setTitle(e.target.value)}
-                  placeholder="যেমন: আগামী শুক্রবার মসজিদ প্রাঙ্গণে সভা"
+                  placeholder="আমি মো: আমিনুল ইসলাম  আমি এই সাইটটি তৈরি করেছি কোন ভুল হলে আমাকে জানাবেন আমি পরিবর্তন করে দিবো ধন্যবাদ 💐"
                   className="w-full px-3 py-2 rounded-xl border border-slate-300 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-slate-900 dark:text-white outline-none focus:ring-2 focus:ring-emerald-500 text-xs sm:text-sm"
                 />
               </div>
