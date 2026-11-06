@@ -379,7 +379,7 @@ export default function App() {
               <div className="relative z-10 max-w-3xl">
                 <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/10 backdrop-blur-md border border-white/20 text-xs font-semibold mb-3 text-amber-300">
                   <MapPin className="w-3.5 h-3.5" />
-                  <span>ধনকুন্ডী উত্তর পাড়া, ৩নং সীমাবাড়ী ইউনিয়ন পরিষদ, শেরপুর, বগুড়া</span>
+                  <span>ধনকুন্ডী উত্তর পাড়া, ৯নং সীমাবাড়ী ইউনিয়ন পরিষদ, শেরপুর, বগুড়া</span>
                 </div>
 
                 <h1 className="text-2xl sm:text-4xl font-black tracking-tight leading-tight">
@@ -456,7 +456,7 @@ export default function App() {
                       <span>জরুরি রক্তের আবেদন সক্রিয় রয়েছে! ({toBengaliDigits(activeRequestsCount)} টি)</span>
                     </h3>
                     <p className="text-xs text-red-700 dark:text-red-300 mt-0.5">
-                      শেরপুর হাসপাতাল ও বগুড়া শজিমেক-এ রোগীদের জন্য জরুরি রক্তের গ্রুপধারীদের সদয় রক্তদানের আহ্বান।
+                      শেরপুর হাসপাতাল ও বগুড়া জিয়া মেডিকেল কলেজ হাসপাতাল  রোগীদের জন্য জরুরি রক্তের গ্রুপধারীদের সদয় রক্তদানের আহ্বান।
                     </p>
                   </div>
                 </div>
@@ -789,10 +789,10 @@ export default function App() {
               <span>ধনকুন্ডী উত্তর পাড়া সেবা ও রক্তদান পরিষদ</span>
             </div>
             <p className="mt-1 text-slate-500">
-              গ্রাম: ধনকুন্ডী উত্তর পাড়া • ৩নং সীমাবাড়ী ইউনিয়ন পরিষদ • উপজেলা: শেরপুর • জেলা: বগুড়া
+              গ্রাম: ধনকুন্ডী উত্তর পাড়া • ৯নং সীমাবাড়ী ইউনিয়ন পরিষদ • উপজেলা: শেরপুর • জেলা: বগুড়া
             </p>
             <p className="mt-0.5 text-[11px] text-slate-400">
-              জরুরি হটলাইন: 01712-895421 • জাতীয় সেবা: ৯৯৯ • তথ্য সেবা: ৩৩৩
+              জরুরি হটলাইন: 017 • জাতীয় সেবা: ৯৯৯ • তথ্য সেবা: ৩৩৩
             </p>
           </div>
 
@@ -851,7 +851,7 @@ export default function App() {
         </div>
 
         <div className="max-w-7xl mx-auto mt-6 pt-4 border-t border-slate-100 dark:border-slate-800/80 flex flex-col sm:flex-row items-center justify-between text-[11px] text-slate-400 gap-2">
-          <span>© ২০২৪ ধনকুন্ডী উত্তর পাড়া সেবা পরিষদ। সর্বস্বত্ব সংরক্ষিত।</span>
+          <span>© ২০২৬ ধনকুন্ডী উত্তর পাড়া সেবা পরিষদ। সর্বস্বত্ব সংরক্ষিত।</span>
           <span className="flex items-center gap-1">
             <span>গ্রামের কল্যাণে সার্বক্ষণিক সেবা বাতায়ন</span> • 
             <span className="text-emerald-600 dark:text-emerald-400 font-medium">শেরপুর, বগুড়া</span>
