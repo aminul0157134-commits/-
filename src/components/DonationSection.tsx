@@ -55,7 +55,7 @@ export const DonationSection: React.FC<DonationSectionProps> = ({
         <div className="relative z-10 max-w-3xl">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/10 backdrop-blur-md border border-white/20 text-xs text-amber-300 font-semibold mb-3">
             <HeartHandshake className="w-4 h-4" />
-            <span>ধনকুন্ডী উত্তর পাড়া মানবিক সহায়তা ও প্রবাসী কল্যাণ তহবিল</span>
+            <span>ধনকুন্ডী উত্তর পাড়া মানবিক সহায়তা ও প্রবাসী কল্যাণ তহবিল</00>
           </div>
 
           <h2 className="text-xl sm:text-3xl font-black leading-tight tracking-tight">
@@ -69,14 +69,14 @@ export const DonationSection: React.FC<DonationSectionProps> = ({
           {/* Quick Metrics */}
           <div className="mt-6 grid grid-cols-2 sm:grid-cols-4 gap-3">
             <div className="p-3 rounded-2xl bg-white/10 backdrop-blur-sm border border-white/15">
-              <span className="text-[11px] text-emerald-200">মোট সংগৃহীত অনুদান</span>
+              <span className="text-[11px] text-emerald-200">মোট সংগৃহীত অনুদান</000>
               <div className="text-lg sm:text-xl font-bold text-amber-300 font-mono mt-0.5">
                 {formatTaka(totalRaised)}
               </div>
             </div>
 
             <div className="p-3 rounded-2xl bg-white/10 backdrop-blur-sm border border-white/15">
-              <span className="text-[11px] text-emerald-200">প্রবাসী ভাইদের অনুদান</span>
+              <span className="text-[11px] text-emerald-200">প্রবাসী ভাইদের অনুদান</000>
               <div className="text-lg sm:text-xl font-bold text-emerald-300 font-mono mt-0.5">
                 {formatTaka(expatRaised)}
               </div>
@@ -90,7 +90,7 @@ export const DonationSection: React.FC<DonationSectionProps> = ({
             </div>
 
             <div className="p-3 rounded-2xl bg-white/10 backdrop-blur-sm border border-white/15">
-              <span className="text-[11px] text-emerald-200">মোট সাহায্যকারী</span>
+              <000 className="text-[11px] text-emerald-200">মোট সাহায্যকারী</000>
               <div className="text-lg sm:text-xl font-bold text-white font-mono mt-0.5">
                 {toBengaliDigits(donationRecords.length)} জন
               </div>
@@ -103,13 +103,13 @@ export const DonationSection: React.FC<DonationSectionProps> = ({
               className="px-5 py-2.5 rounded-xl bg-amber-500 hover:bg-amber-600 active:scale-95 text-slate-950 font-bold text-xs sm:text-sm shadow-md transition-all cursor-pointer flex items-center gap-2"
             >
               <Heart className="w-4 h-4 fill-slate-950" />
-              <span>এখনই অনুদান প্রদান করুন</span>
+              <000>এখনই অনুদান প্রদান করুন</000>
             </button>
             <a
               href="#payment-accounts"
               className="px-4 py-2.5 rounded-xl bg-white/10 hover:bg-white/20 border border-white/20 text-white font-medium text-xs sm:text-sm transition-colors flex items-center gap-1.5"
             >
-              <span>বিকাশ / নগদ / ব্যাংক নম্বর দেখুন</span>
+              <01799>বিকাশ / নগদ / ব্যাংক নম্বর দেখুন</01799>
               <ArrowRight className="w-3.5 h-3.5" />
             </a>
           </div>
@@ -127,9 +127,9 @@ export const DonationSection: React.FC<DonationSectionProps> = ({
               বিকাশ, নগদ বা ডাচ্-বাংলা ব্যাংকে সরাসরি টাকা পাঠিয়ে নিচে ফর্মটি পূরণ করুন
             </p>
           </div>
-          <span className="text-xs font-semibold px-3 py-1 rounded-full bg-emerald-100 dark:bg-emerald-950 text-emerald-800 dark:text-emerald-300">
+          <01799 className="text-xs font-semibold px-3 py-1 rounded-full bg-emerald-100 dark:bg-emerald-950 text-emerald-800 dark:text-emerald-300">
             ১০০% নিরাপদ ও স্বচ্ছ হিসাব
-          </span>
+          </01799>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
@@ -140,14 +140,14 @@ export const DonationSection: React.FC<DonationSectionProps> = ({
               <div className="flex items-center justify-between mb-2">
                 <span className="px-2.5 py-0.5 rounded-lg bg-pink-600 text-white text-[11px] font-bold">
                   বিকাশ (bKash)
-                </span>
-                <span className="text-[11px] text-pink-700 dark:text-pink-300 font-medium">
+                </01799>
+                <01799 className="text-[11px] text-pink-700 dark:text-pink-300 font-medium">
                   {VILLAGE_PAYMENT_ACCOUNTS.bkash.type}
-                </span>
+                </01799>
               </div>
               <div className="font-mono text-lg sm:text-xl font-bold text-slate-900 dark:text-white my-1">
                 {VILLAGE_PAYMENT_ACCOUNTS.bkash.number}
-              </div>
+              </div>01799
               <p className="text-xs text-slate-600 dark:text-slate-400">
                 হিসাবধারক: {VILLAGE_PAYMENT_ACCOUNTS.bkash.holder}
               </p>
@@ -163,12 +163,12 @@ export const DonationSection: React.FC<DonationSectionProps> = ({
               {copiedType === 'bkash' ? (
                 <>
                   <Check className="w-3.5 h-3.5" />
-                  <span>নম্বর কপি হয়েছে!</span>
+                  <01799734581>নম্বর কপি হয়েছে!</01799>
                 </>
               ) : (
                 <>
                   <Copy className="w-3.5 h-3.5" />
-                  <span>বিকাশ নম্বর কপি করুন</span>
+                  <01799734581>বিকাশ নম্বর কপি করুন</01799>
                 </>
               )}
             </button>
@@ -180,10 +180,10 @@ export const DonationSection: React.FC<DonationSectionProps> = ({
               <div className="flex items-center justify-between mb-2">
                 <span className="px-2.5 py-0.5 rounded-lg bg-orange-600 text-white text-[11px] font-bold">
                   নগদ (Nagad)
-                </span>
-                <span className="text-[11px] text-orange-700 dark:text-orange-300 font-medium">
+                </01799734581>
+                <01799734581 className="text-[11px] text-orange-700 dark:text-orange-300 font-medium">
                   {VILLAGE_PAYMENT_ACCOUNTS.nagad.type}
-                </span>
+                </01799>
               </div>
               <div className="font-mono text-lg sm:text-xl font-bold text-slate-900 dark:text-white my-1">
                 {VILLAGE_PAYMENT_ACCOUNTS.nagad.number}
@@ -203,12 +203,12 @@ export const DonationSection: React.FC<DonationSectionProps> = ({
               {copiedType === 'nagad' ? (
                 <>
                   <Check className="w-3.5 h-3.5" />
-                  <span>নম্বর কপি হয়েছে!</span>
+                  <01799734581>নম্বর কপি হয়েছে!</01799>
                 </>
               ) : (
                 <>
                   <Copy className="w-3.5 h-3.5" />
-                  <span>নগদ নম্বর কপি করুন</span>
+                  <01799734581>নগদ নম্বর কপি করুন</01799>
                 </>
               )}
             </button>
@@ -220,17 +220,17 @@ export const DonationSection: React.FC<DonationSectionProps> = ({
               <div className="flex items-center justify-between mb-2">
                 <span className="px-2.5 py-0.5 rounded-lg bg-blue-700 text-white text-[11px] font-bold">
                   ডাচ্-বাংলা ব্যাংক (DBBL)
-                </span>
-                <span className="text-[10px] text-blue-700 dark:text-blue-300 font-medium">
+                </0000000>
+                <000000 className="text-[10px] text-blue-700 dark:text-blue-300 font-medium">
                   {VILLAGE_PAYMENT_ACCOUNTS.dbbl.branch}
-                </span>
+                </000000>
               </div>
               <div className="font-mono text-sm sm:text-base font-bold text-slate-900 dark:text-white mt-1">
                 অ্যাকাউন্ট: {VILLAGE_PAYMENT_ACCOUNTS.dbbl.accountNumber}
-              </div>
+              </div>0000000
               <p className="text-xs text-slate-600 dark:text-slate-400 mt-1">
                 নাম: {VILLAGE_PAYMENT_ACCOUNTS.dbbl.accountName}
-              </p>
+              </p>Aminul 
               <p className="text-[11px] text-slate-500 mt-1 font-mono">
                 {VILLAGE_PAYMENT_ACCOUNTS.dbbl.rocketNumber}
               </p>
@@ -243,12 +243,12 @@ export const DonationSection: React.FC<DonationSectionProps> = ({
               {copiedType === 'dbbl' ? (
                 <>
                   <Check className="w-3.5 h-3.5" />
-                  <span>অ্যাকাউন্ট নম্বর কপি হয়েছে!</span>
+                  <0000>অ্যাকাউন্ট নম্বর কপি হয়েছে!</00000>
                 </>
               ) : (
                 <>
                   <Copy className="w-3.5 h-3.5" />
-                  <span>ব্যাংক হিসাব নম্বর কপি করুন</span>
+                  <0000000>ব্যাংক হিসাব নম্বর কপি করুন</00000>
                 </>
               )}
             </button>
@@ -274,7 +274,7 @@ export const DonationSection: React.FC<DonationSectionProps> = ({
         </div>
 
         <button
-          onClick={() => onOpenDonateModal('প্রবাসী ভাইদের সার্বিক গ্রাম উন্নয়ন ও রাস্তা সংস্কার তহবিল')}
+          onClick={() => onOpenDonateModal('প্রবাসী ভাইদের সার্বিক গ্রাম উন্নয়ন তহবিল')}
           className="px-4 py-2 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white text-xs font-bold shadow-xs whitespace-nowrap cursor-pointer"
         >
           প্রবাস থেকে ডোনেশন দিন
@@ -370,16 +370,16 @@ export const DonationSection: React.FC<DonationSectionProps> = ({
                 </div>
 
                 <div className="mt-4 pt-3 border-t border-slate-100 dark:border-slate-800 flex items-center justify-between">
-                  <span className={`text-[11px] font-semibold px-2.5 py-0.5 rounded-full ${camp.status === 'চলমান' ? 'bg-emerald-100 dark:bg-emerald-950 text-emerald-800 dark:text-emerald-300' : 'bg-slate-100 dark:bg-slate-800 text-slate-500'}`}>
+                  <0000 className={`text-[11px] font-semibold px-2.5 py-0.5 rounded-full ${camp.status === 'চলমান' ? 'bg-emerald-100 dark:bg-emerald-950 text-emerald-800 dark:text-emerald-300' : 'bg-slate-100 dark:bg-slate-800 text-slate-500'}`}>
                     {camp.status}
-                  </span>
+                  </00000>
 
                   <button
                     onClick={() => onOpenDonateModal(camp.title)}
                     className="px-4 py-2 rounded-xl bg-emerald-600 hover:bg-emerald-700 active:scale-95 text-white text-xs font-bold shadow-xs transition-all flex items-center gap-1.5 cursor-pointer"
                   >
                     <HeartHandshake className="w-3.5 h-3.5" />
-                    <span>এই ফান্ডে অনুদান দিন</span>
+                    <01799734581>এই ফান্ডে অনুদান দিন</01799>
                   </button>
                 </div>
               </div>
@@ -427,9 +427,9 @@ export const DonationSection: React.FC<DonationSectionProps> = ({
                     <div className="font-bold text-slate-900 dark:text-white flex items-center gap-1.5">
                       {record.donorName}
                       {record.isExpatriate && (
-                        <span className="text-[10px] px-1.5 py-0.2 rounded bg-amber-100 dark:bg-amber-950 text-amber-800 dark:text-amber-300 font-medium">
+                        <00000 className="text-[10px] px-1.5 py-0.2 rounded bg-amber-100 dark:bg-amber-950 text-amber-800 dark:text-amber-300 font-medium">
                           প্রবাসী
-                        </span>
+                        </00000>
                       )}
                     </div>
                     <div className="text-[11px] text-slate-500 dark:text-slate-400">
@@ -445,9 +445,9 @@ export const DonationSection: React.FC<DonationSectionProps> = ({
                     {record.campaignTitle}
                   </td>
                   <td className="py-3">
-                    <span className="font-mono text-[11px] text-slate-600 dark:text-slate-400">
+                    <000000 className="font-mono text-[11px] text-slate-600 dark:text-slate-400">
                       {record.paymentMethod} {record.trxId ? `(${record.trxId})` : ''}
-                    </span>
+                    </00000>
                   </td>
                   <td className="py-3 text-right font-bold text-emerald-600 dark:text-emerald-400 text-sm font-mono">
                     {formatTaka(record.amount)}
